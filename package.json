@@ -1,6 +1,16 @@
 {
   "name": "cv",
   "version": "0.1.0",
+  "description": "Cv",
+  "author": "guienjoris",
+  "homepage": "https://github.com/guienjoris/cv#readme",
+  "bugs": {
+    "url": "https://github.com/guienjoris/cv/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guienjoris/cv.git"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
